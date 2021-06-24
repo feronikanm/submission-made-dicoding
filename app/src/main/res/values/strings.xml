@@ -1,0 +1,9 @@
+<resources>
+    <string name="title_favorite">Favorite</string>
+    <string name="sample_of_subtitle_text">Sample of subtitle text</string>
+    <string name="image">Image</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="power_connected">Power connected!</string>
+    <string name="power_disconnected">Power disconnected!</string>
+</resources>
